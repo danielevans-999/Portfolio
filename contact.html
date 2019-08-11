@@ -26,46 +26,72 @@
       </div>
     </nav>
     <div class="container">
-    <div class="row">
-      <form class="col s12">
-        <div class="row">
-          <div class="input-field col s6">
-            <i class="material-icons prefix">account_circle</i>
-            <input id="icon_prefix" type="text" class="validate" />
-            
+      <div class="row">
+        <form class="col s12">
+          <div class="row">
+            <div class="input-field col s6">
+              <i class="material-icons prefix">account_circle</i>
+              <input
+                id="icon_prefix"
+                type="text"
+                class="validate"
+                placeholder="first name"
+                required
+              />
+            </div>
+            <div class="input-field col s6">
+              <i class="material-icons prefix">account_circle</i>
+              <input
+                id="icon_prefix"
+                type="text"
+                class="validate"
+                placeholder="last name"
+                required
+              />
+            </div>
           </div>
-          <div class="input-field col s6">
-            <i class="material-icons prefix">account_circle</i>
-            <input id="icon_prefix" type="text" class="validate" placeholder="last name"/>
-            
+          <div class="row">
+            <div class="input-field col s6">
+              <i class="material-icons prefix">phone</i>
+              <input
+                id="icon_telephone"
+                type="tel"
+                class="validate"
+                placeholder="phone number"
+                required
+              />
+            </div>
+            <div class="input-field col s6">
+              <i class="material-icons prefix">email</i>
+              <input
+                id="icon_telephone"
+                type="tel"
+                class="validate"
+                placeholder="email"
+                required
+              />
+            </div>
           </div>
-        </div>
-        <div class="row">
-          <div class="input-field col s6">
-            <i class="material-icons prefix">phone</i>
-            <input id="icon_telephone" type="tel" class="validate" placeholder="phone number"/>
-            
+          <div class="row">
+            <div class="input-field col s6">
+              <i class="material-icons prefix">message</i>
+              <textarea
+                id="textarea1"
+                class="materialize-textarea"
+                placeholder="write a massage"
+              ></textarea>
+            </div>
           </div>
-          <div class="input-field col s6">
-            <i class="material-icons prefix">email</i>
-            <input id="icon_telephone" type="tel" class="validate" placeholder="email" />
-            
-          </div>
-        </div>
-        <div class="row">
-          <div class="input-field col s6">
-                <i class="material-icons prefix">message</i>
-            <textarea id="textarea1" class="materialize-textarea" placeholder="write a massage"></textarea>
-            
-          </div>
-        </div>
-      </form>
-    </div> <button class="btn blue waves-effect waves-light" type="submit" name="action">Submit
-            <i class="material-icons right">send</i>
-          </button>
-                
-    
+        </form>
+      </div>
+      <button
+        class="btn blue waves-effect waves-light"
+        type="submit"
+        name="action"
+      >
+        Submit
+        <i class="material-icons right">send</i>
+      </button>
     </div>
-
   </body>
 </html>
