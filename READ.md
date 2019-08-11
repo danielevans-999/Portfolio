@@ -1,12 +1,14 @@
 # {Portfolio }
-#### {Brief description of application}, {Date of current version}
-#### By **{List of contributors}**
+#### By **{Daniel Evans Karani}**
 ## Description
 {This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
 ## Setup/Installation Requirements
 1.Clone this repo into your desktop using the **git clone URL format**
+
 2.Open your Terminal 
+
 3.Change your directory to the clone repo
+
 4.Open the application using atom . or code . for those that use vscode editor
 
 ## Known Bugs
