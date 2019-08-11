@@ -22,7 +22,7 @@ This application has been created using various technologies
 2. CSS
    >custom css &materialize css library
 ## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+The application is an open-source product if you  want to improve it.
 ### License
 >You can check out the license [click here](https://choosealicense.com/licenses/mit/)
 This project is licensed under the terms of **MIT**
