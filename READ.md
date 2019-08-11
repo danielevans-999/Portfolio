@@ -25,6 +25,7 @@ This application has been created using various technologies
 {Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
 ### License
 >You can check out the license [click here](https://choosealicense.com/licenses/mit/)
-This project is licensed under the terms of **MIT***
-Copyright (c) {year} **{List of contributors or company name}z**
+This project is licensed under the terms of **MIT**
+
+Copyright (c) 2019 **Daniel Evans Karani**
   
