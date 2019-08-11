@@ -2,14 +2,15 @@
   width: 100%;
   height: 700px;
 }
-#logo{
-    width: 130px;
-    height: 150px;
-    border-radius: 70px;
+#logo {
+  width: 130px;
+  height: 150px;
+  border-radius: 70px;
 }
 nav {
   text-transform: uppercase;
   height: 150px;
+  color: #07000c;
 }
 .home {
   font-size: 20px;
