@@ -13,7 +13,7 @@ contact page.
 4.Open the application using atom . or code . for those that use vscode editor
 
 ## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+The current version of the application is not visible on all screen sizes but the latter version of it will be supported by all the screen sizes.
 ## Technologies Used
 This application has been created using various technologies
 
