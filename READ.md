@@ -1,7 +1,8 @@
 # Portfolio 
 #### By **{Daniel Evans Karani}**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+This is a web application containing a porfolio profile and has a homepage ,About me page and 
+contact page.
 ## Setup/Installation Requirements
 1.Clone this repo into your desktop using the **git clone URL format**
 
@@ -23,6 +24,7 @@ This application has been created using various technologies
 ## Support and contact details
 {Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+>You can check out the license [click here](https://choosealicense.com/licenses/mit/)
+This project is licensed under the terms of **MIT***
 Copyright (c) {year} **{List of contributors or company name}z**
   
