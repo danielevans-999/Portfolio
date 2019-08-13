@@ -20,3 +20,8 @@ nav {
 hr {
   width: 85%;
 }
+a:hover{
+  color:white;
+  background-color: indigo;
+  box-shadow: 3px 3px 5px ;
+}
